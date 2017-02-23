@@ -1,6 +1,6 @@
 Name     : jdk-jackson-parent
 Version  : 2.7.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/FasterXML/jackson-parent/archive/jackson-parent-2.7-1.tar.gz
 Source0  : https://github.com/FasterXML/jackson-parent/archive/jackson-parent-2.7-1.tar.gz
 Summary  : No detailed summary available
